@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Alex T.'s GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=zawnainglinn1996&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript,makefile&theme=algolia&show_icons=true)](https://github.com/zawnainglinn1996)
+[![Alex T.'s GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=zawnainglinn1996&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript,makefile,tsql&theme=algolia&show_icons=true)](https://github.com/zawnainglinn1996)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=dynaz&theme=algolia&show_icons=true)](https://github.com/dynaz)
 
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Nice to Meet you Bro !.](https://myoctocat.com/assets/images/base-octocat.svg)
