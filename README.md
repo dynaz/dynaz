@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🔭 I’m currently working on Creative Dev Co.,Ltd.
-📫 Have any Question so [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/).
+📫 Have any Question ? [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/).
 <!--
 **dynaz/dynaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
