@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 [![Alex T.'s GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=zawnainglinn1996&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript,makefile,tsql&theme=algolia&show_icons=true)](https://github.com/zawnainglinn1996)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=dynaz&theme=algolia&show_icons=true)](https://github.com/dynaz)
 
-“What happened that is always good” 
+“What happened that is always good”
+
 “สิ่งใดเกิดขึ้นแล้ว สิ่งนั้นดีเสมอ” 
 
-![Nice to Meet you Bro !.](https://myoctocat.com/assets/images/base-octocat.svg)
+![Nice to Meet you Bro !.]([https://myoctocat.com/assets/images/base-octocat.svg](https://lh3.googleusercontent.com/pw/AP1GczOAeuMvI-dHLRX-dWT5GypBMIvbKxga9eox2arE8xf35RBy5Xjj3_mGbC3fOkGvniN5-0l9fyykGGFiRfVtcRjR2I4dIYwN2f-qC9NdOolYqgif3O0N00ZGjPQk3TEn1szdtHiKzgyxinXmS7xaSqnodw=w250-h191-s-no-gm?authuser=0))
