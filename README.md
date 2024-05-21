@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 🔭 I’m currently working on Creative Dev Co.,Ltd.
-📫 How to reach me: ... [Meeting Me](https://creativedev.co.th/book/meet-with-me-1/).
+📫 How to reach me , Have any Question so Try [Meeting Me](https://creativedev.co.th/book/meet-with-me-1/).
 <!--
 **dynaz/dynaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
