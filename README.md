@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=dynaz&theme=algolia&show_icons=true)](https://github.com/dynaz)
 [![Alex T.'s GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=zawnainglinn1996&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/zawnainglinn1996)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=dynaz&theme=algolia&show_icons=true)](https://github.com/dynaz)
+
 
