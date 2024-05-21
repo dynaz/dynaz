@@ -3,7 +3,7 @@
 🔭 I’m currently working on Creative Dev Co.,Ltd.
 
 📫 How to reach me: ...
-
+This site was built using [GitHub Pages](https://pages.github.com/).
 <!--
 **dynaz/dynaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
