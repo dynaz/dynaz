@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/5RMBbhr" data-context="false" ><a href="//imgur.com/a/5RMBbhr"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 -->
-[![Alex T.'s GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=zawnainglinn1996&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript,makefile,tsql,richtextformat,groovy,C#&theme=synthwave&show_icons=true)](https://github.com/zawnainglinn1996)
+[![Alex T.'s GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=zawnainglinn1996&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript,makefile,tsql,richtextformat,groovy&theme=synthwave&show_icons=true)](https://github.com/zawnainglinn1996)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=dynaz&theme=transparent&show_icons=true)](https://github.com/dynaz)
 
 “What happened that is always good”
