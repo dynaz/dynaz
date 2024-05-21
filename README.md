@@ -19,5 +19,7 @@ Here are some ideas to get you started:
 [![Alex T.'s GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=zawnainglinn1996&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript,makefile,tsql&theme=algolia&show_icons=true)](https://github.com/zawnainglinn1996)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=dynaz&theme=algolia&show_icons=true)](https://github.com/dynaz)
 
+“What happened that is always good” 
+“สิ่งใดเกิดขึ้นแล้ว สิ่งนั้นดีเสมอ” 
 
 ![Nice to Meet you Bro !.](https://myoctocat.com/assets/images/base-octocat.svg)
