@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 “สิ่งใดเกิดขึ้นแล้ว สิ่งนั้นดีเสมอ” 
 
-![Nice to Meet you Bro !.]([https://myoctocat.com/assets/images/base-octocat.svg](https://lh3.googleusercontent.com/pw/AP1GczOAeuMvI-dHLRX-dWT5GypBMIvbKxga9eox2arE8xf35RBy5Xjj3_mGbC3fOkGvniN5-0l9fyykGGFiRfVtcRjR2I4dIYwN2f-qC9NdOolYqgif3O0N00ZGjPQk3TEn1szdtHiKzgyxinXmS7xaSqnodw=w250-h191-s-no-gm?authuser=0))
+![Nice to Meet you Bro !.]([https://lh3.googleusercontent.com/pw/AP1GczOAeuMvI-dHLRX-dWT5GypBMIvbKxga9eox2arE8xf35RBy5Xjj3_mGbC3fOkGvniN5-0l9fyykGGFiRfVtcRjR2I4dIYwN2f-qC9NdOolYqgif3O0N00ZGjPQk3TEn1szdtHiKzgyxinXmS7xaSqnodw=w250-h191-s-no-gm?authuser=0])
