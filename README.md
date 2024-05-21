@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=dynaz&theme=algolia&show_icons=true)](https://github.com/dynaz)
 
-[![Dynaz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dynaz&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/dynaz)
+[![Dynaz's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dynaz&theme=algolia&show_icons=true)](https://github.com/dynaz)
 
