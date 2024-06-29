@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 ⚡ Fun fact: “What happened that is always good”
 📫 How to reach me: [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/).
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dynaz&repo=github-readme-stats)](https://github.com/dynaz/github-readme-stats)
 
