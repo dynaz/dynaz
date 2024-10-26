@@ -1,4 +1,4 @@
-## Hi there 👋 my name is "Alex"
+## Hi there 👋 Alex nice to meet you.
 <img style="margin: 100px" src="https://ezodoo.com/cdev.webp" alt="Linux" height="100" />  
 
 - 🔭 I’m currently working on Creative Dev Co.,Ltd.
