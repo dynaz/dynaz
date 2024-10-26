@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Creative Dev Co.,Ltd.
 - 📫 Have any Question ? [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/).
 <!--
-**dynaz/dynaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dynaz/dynaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
 Here are some ideas to get you started:
 
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - ⚡ Fun fact: “What happened that is always good”
-- 📫 How to reach me: [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/).
+- 📫 How to reach me: [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/). -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=dynaz&theme=dracula&show_icons=true&bg_color=00000000))](https://github.com/dynaz)
 [![Alex T.'s GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dynaz&hide=html,scss,stylus,blade,jupyter%20notebook,css,shell,batchfile,dockerfile,typescript,makefile,tsql,richtextformat,groovy&theme=merko&show_icons=true)](https://github.com/dynaz)
