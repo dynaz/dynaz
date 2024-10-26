@@ -1,5 +1,5 @@
 ## Hi there 👋  **Alex** here ,nice to meet you. 
-<img style="margin-left: 100px" src="https://ezodoo.com/cdev.webp" alt="Linux" height="100" />  
+<img style="margin-left: 80px" src="https://ezodoo.com/cdev.webp" alt="Linux" height="80" />  
 
 - 🔭 I’m currently working on **[Creative Dev Co.,Ltd.](https://creativedev.co.th).** | Bangkok, Thailand
 - 🌱 I’m currently learning about how to use "our Life in this Planet"
