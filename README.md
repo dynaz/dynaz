@@ -1,10 +1,10 @@
 ## Hi there 👋
-
+<img style="margin: 100px" src="https://ezodoo.com/cdev.webp" alt="Linux" height="100" />  
 - 🔭 I’m currently working on Creative Dev Co.,Ltd.
 - 📫 Have any Question ? [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/).
 <br/>  
 
-<img style="margin: 100px" src="https://ezodoo.com/cdev.webp" alt="Linux" height="120" />  
+
 
 <!--
 **dynaz/dynaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
