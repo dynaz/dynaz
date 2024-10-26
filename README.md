@@ -1,7 +1,10 @@
 ## Hi there 👋 Alex nice to meet you.
 <img style="margin-left: 100px" src="https://ezodoo.com/cdev.webp" alt="Linux" height="100" />  
 
-- 🔭 I’m currently working on [b]Creative Dev Co.,Ltd.[/b]
+- 🔭 I’m currently working on Creative Dev Co.,Ltd.
+- 🌱 I’m currently learning about Life
+- 👯 I’m looking to collaborate on Odoo Development
+- ⚡ Fun fact: i think about everything in This World is “What happened that is always good”
 - 📫 Have any Question ? [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/).
 <br/>  
 
