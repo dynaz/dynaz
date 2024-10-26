@@ -1,9 +1,9 @@
-## Hi there 👋   Alex here ,nice to meet you. 
+## Hi there 👋  **Alex** here ,nice to meet you. 
 <img style="margin-left: 100px" src="https://ezodoo.com/cdev.webp" alt="Linux" height="100" />  
 
-- 🔭 I’m currently working on Creative Dev Co.,Ltd.
-- 🌱 I’m currently learning about Life
-- 👯 I’m looking to collaborate on Odoo Development
+- 🔭 I’m currently working on **Creative Dev Co.,Ltd.**
+- 🌱 I’m currently learning about how to use "our Life in this Planet"
+- 👯 I’m looking to collaborate on Odoo Development Project
 - ⚡ Fun fact: i think about everything in This World is “What happened that is always good”
 - 📫 Have any Question ? [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/).
 <br/>  
@@ -85,7 +85,7 @@ Here are some ideas to get you started:
 </td></tr></table>  
 
 <br/>  
-<div align="center">  ## Languages and Tools  </div>
+## Language & Tools
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" /></a>  
