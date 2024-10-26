@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on Creative Dev Co.,Ltd.
 - 📫 Have any Question ? [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/).
+
+<img style="margin: 10px" src="https://ezodoo.com/cdev.webp" alt="Linux" height="25" />  
 <!--
 **dynaz/dynaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
