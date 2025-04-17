@@ -3,12 +3,10 @@
 
 - 🔭 I’m currently working on **[Creative Dev Co.,Ltd.](https://creativedev.co.th).** | Bangkok, Thailand
 - 🌱 I’m currently learning about how to use "our Life in this Planet"
-- 👯 I’m looking to collaborate on Odoo Development Project
+- 👯 if you looking Odoo addons for Exchange , i am Ready
 - ⚡ Fun fact: i think about everything in This World is “What happened that is always good”
 - 📫 Have any Question ? [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/).
 <br/>  
-if you want to exchange Odoo addons , i am ready !
-
 
 <!--
 **dynaz/dynaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
