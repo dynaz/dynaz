@@ -7,7 +7,7 @@
 - ⚡ Fun fact: i think about everything in This World is “What happened that is always good”
 - 📫 Have any Question ? [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/).
 <br/>  
-
+if you want to exchange Odoo addons , i am ready !
 
 
 <!--
