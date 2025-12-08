@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - ⚡ Fun fact: “What happened that is always good”
 - 📫 How to reach me: [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/). -->
-(https://github.com/dynaz)
 
 <br/>  
 
