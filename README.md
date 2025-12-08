@@ -1,7 +1,7 @@
 ## Hi there 👋  **Alex** here ,nice to meet you. 
 
 - 🔭 I’m currently working on **[Creative Dev Co.,Ltd.](https://creativedev.co.th).** | Bangkok, Thailand
-- 🌱 I’m currently learning about how to use "our Life in this Planet"
+- 🌱 I’m currently learning about ฺBuddha Vajrayāna
 - 👯 if you looking Odoo addons for Exchange , i am Ready
 - ⚡ Fun fact: i think about everything in This World is “What happened that is always good”
 - 📫 Have any Question ? [Let's Talk](https://creativedev.co.th/book/meet-with-me-1/).
